@@ -2,7 +2,7 @@
 import { ref } from "vue";
 import Arrow from "@/components/icons/ArrowDown.vue";
 
-const countdownDate = new Date("March 2, 2024 00:00:00").getTime();
+const countdownDate = new Date("March 30, 2025 00:00:00").getTime();
 
 const days = ref(0);
 const hours = ref(0);
